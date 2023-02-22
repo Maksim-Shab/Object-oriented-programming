@@ -1,7 +1,6 @@
 public class Transport {
     private int year;
     private String color;
-
     private int maxSpeed;
 
     public Transport(int year, String color, int maxSpeed) {
